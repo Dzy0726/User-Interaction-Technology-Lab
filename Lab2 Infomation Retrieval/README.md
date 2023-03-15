@@ -434,27 +434,27 @@ Add 3 labels to complete the task, and the initialization value is `display: non
 
 - Homepage
 
-  <img src="/Users/dzy/Library/Application Support/typora-user-images/image-20210604211414634.png" alt="image-20210604211414634" style="zoom:50%;" />
+  <img src="report.assets/image-20210604211414634.png" alt="image-20210604211414634" style="zoom:50%;" />
 
 - The user can only upload his or her picture fromlocal
 
-  ![image-20210604211300642](/Users/dzy/Library/Application Support/typora-user-images/image-20210604211300642.png)
+  ![image-20210604211300642](report.assets/image-20210604211300642.png)
 
 - Permit variants to allow relaxation of search constraints 
 
 - Show the source file
 
-  <img src="/Users/dzy/Library/Application Support/typora-user-images/image-20210604211345506.png" alt="image-20210604211345506" style="zoom:50%;" />
+  <img src="report.assets/image-20210604211345506.png" alt="image-20210604211345506" style="zoom:50%;" />
 
 ### Initiation of action
 
 - Button
 
-  <img src="/Users/dzy/Library/Application Support/typora-user-images/image-20210604211532592.png" alt="image-20210604211532592" style="zoom:50%;" />
+  <img src="report.assets/image-20210604211532592.png" alt="image-20210604211532592" style="zoom:50%;" />
 
 - Drag the image to the favorites
 
-  <img src="/Users/dzy/Library/Application Support/typora-user-images/image-20210604211550539.png" alt="image-20210604211550539" style="zoom:50%;" />
+  <img src="report.assets/image-20210604211550539.png" alt="image-20210604211550539" style="zoom:50%;" />
 
   
 
@@ -468,11 +468,11 @@ Add 3 labels to complete the task, and the initialization value is `display: non
 
 - Enlarge & Shrink
 
-  <img src="/Users/dzy/Library/Application Support/typora-user-images/image-20210604211710830.png" alt="image-20210604211710830" style="zoom:50%;" />
+  <img src="report.assets/image-20210604211710830.png" alt="image-20210604211710830" style="zoom:50%;" />
 
 - Display the favorite images only
 
-  <img src="/Users/dzy/Library/Application Support/typora-user-images/image-20210604211658958.png" alt="image-20210604211658958" style="zoom:50%;" />
+  <img src="report.assets/image-20210604211658958.png" alt="image-20210604211658958" style="zoom:50%;" />
 
 
 
@@ -480,10 +480,10 @@ Add 3 labels to complete the task, and the initialization value is `display: non
 
 - Make changing of search parameters convenient, click `Clear` button and will back to the homepage which allow the user to choose another image.
 
-  ![image.png](https://upload-images.jianshu.io/upload_images/12014150-63357547271e0dca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+  ![image.png](report.assets/1240.png)
 
 ### Use
 
 - Save the result in the favorites and can see the favorite images only.
 
-  <img src="/Users/dzy/Library/Application Support/typora-user-images/image-20210604211806173.png" alt="image-20210604211806173" style="zoom:50%;" />
+  <img src="report.assets/image-20210604211806173.png" alt="image-20210604211806173" style="zoom:50%;" />
