@@ -19,7 +19,7 @@
 
    3. "**Open the calculator**"以  *<u>打开计算器</u>*
 
-更多内容请查看[Lab1 Automatic Speech Recognition](Lab1 Automatic Speech Recognition/README.md)
+更多内容请查看 [Lab1 Automatic Speech Recognition](Lab1 Automatic Speech Recognition/README.md)
 
 
 
