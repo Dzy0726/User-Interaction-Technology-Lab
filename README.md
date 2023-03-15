@@ -25,9 +25,9 @@
 
 ## 2 信息检索/Infomation Retrieval
 
-<img src="Lab2 Infomation Retrieval/report.assets/image-20210604211806173.png" alt="image-20210604211806173" style="zoom:50%;" />
+<img src="Lab2-Infomation-Retrieval/report.assets/image-20210604211806173.png" alt="image-20210604211806173" style="zoom:50%;" />
 
-更多内容请查看[Lab2 Infomation Retrieval](Lab2 Infomation Retrieval/README.md)
+更多内容请查看[Lab2 Infomation Retrieval](Lab2-Infomation-Retrieval/README.md)
 
 
 
@@ -37,5 +37,5 @@
 
 ![sunburst](https://dzy-typora-img-hosting-service.oss-cn-shanghai.aliyuncs.com/typoraImgs/HCI-Lab3-05.gif)
 
-更多内容请查看[Lab3 Data Visualization](Lab3 Data Visualization/README.md)
+更多内容请查看[Lab3 Data Visualization](Lab3-Data-Visualization/README.md)
 
